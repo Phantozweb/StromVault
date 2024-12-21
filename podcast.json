@@ -1,0 +1,18 @@
+[
+    {
+        "category": "Technology",
+        "title": "Exploring AI Innovations",
+        "description": "Discussing recent advances in AI and its impact.",
+        "duration": "15:30",
+        "url": "https://raw.githubusercontent.com/username/repo/branch/podcast/technology_ai.mp3",
+        "date": "2024-01-15"
+    },
+    {
+        "category": "Health",
+        "title": "Healthy Living Tips",
+        "description": "Tips and tricks for a healthier lifestyle.",
+        "duration": "12:45",
+        "url": "https://raw.githubusercontent.com/username/repo/branch/podcast/health_tips.mp3",
+        "date": "2024-01-20"
+    }
+]
